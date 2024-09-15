@@ -8,7 +8,7 @@ const content = `# About Me
 
 ![Samantha](https://backiee.com/static/wallpapers/1000x563/386745.jpg)
 
-Hey there! I'm Khaled, a sophmore studying Computer Science and Engineering @UCONN. I've completed several hackathons including YQuantum 2024, Headstarter AI's Hiring Hackathon I & II, and Google's Gemini Gen AI Hackathon. Additionally, I have worked on many AI projects and dabbled in blockchain research. 
+Hey there! I'm Khaled, a sophomore studying Computer Science and Engineering @UCONN. I've completed several hackathons including YQuantum 2024, Headstarter AI's Hiring Hackathon I & II, and Google's Gemini Gen AI Hackathon. Additionally, I have worked on many AI projects and dabbled in blockchain research. 
 As I continue my journey in tech, I will be sharing my experiences, projects, and insights with you all on this blog!
 
 See you soon,
